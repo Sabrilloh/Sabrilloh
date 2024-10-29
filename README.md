@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Sabrilloh
-- 👀 I’m interested in ... Climate Change Crisis
-- 🌱 I’m currently learning ... programming and drive bio tech
-- 💞️ I’m looking to collaborate on ... solution for Climate Change Crisis
-- 📫 How to reach me ... Just say me Hi
-
-<!---
-Sabrilloh/Sabrilloh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je suis une artiste autodidacte passionnée par l'exploration des formes, des couleurs et des émotions à travers mes œuvres. Mon parcours en tant qu'artiste a été façonné par une curiosité insatiable et une quête de l'authenticité, me poussant à expérimenter différentes techniques et médiums, en particulier la photographie. Chaque pièce que je crée est une réflexion de mes expériences personnelles et des histoires que je souhaite raconter. Je cherche à établir un dialogue avec le spectateur, à l'inviter à ressentir et à réfléchir. Mon travail s'inspire de la nature, de la vie quotidienne et des nuances de l'existence humaine, tout en mettant en lumière des thèmes universels tels que la vulnérabilité, la beauté et la résilience. Parallèlement à ma pratique artistique, j'apprends la théorie musicale dans mes temps libres, ce qui enrichit ma compréhension des rythmes et des harmonies, tant visuelles qu'auditives. Je crois que chaque œuvre est une exploration de soi et un moyen de partager ma vision unique du monde. Je suis fière de mon parcours autodidacte, qui me permet de rester libre dans ma créativité et de continuer à évoluer sans limites.
